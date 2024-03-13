@@ -22,6 +22,8 @@ class User:
         self,
         req: dict
     ):
+        self.req = req
+        self.check_missing_keys()
         self.f_name = req['f_name']
         self.l_name = req['l_name']
         self.p_c_num = req['primary_contact_number']
@@ -33,6 +35,14 @@ class User:
         self.pincode = req['pincode']
         self.m_name = req.get('m_name', "")  # Optional Field
         self.db = get_db()
+
+    def check_missing_keys(self):
+        required_keys = ('f_name','l_name','primary_contact_number','secondary_contact_number',
+                         'primary_email_address','secondary_email_address','password',
+                         'address','pincode',)
+        missing_keys = list(set(required_keys) - set(self.req))
+        if len(missing_keys) > 0:
+            raise AttributeError(f"Missing Keys are {missing_keys}")
 
     def save_user(self):
         user_id = self.db.cur.execute(
