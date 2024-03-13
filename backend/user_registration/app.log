@@ -1,0 +1,1747 @@
+2024-03-09 21:47:32,119 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-09 21:47:32,119 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-03-09 21:47:32,126 - werkzeug - INFO -  * Restarting with stat
+2024-03-09 21:47:32,683 - werkzeug - WARNING -  * Debugger is active!
+2024-03-09 21:47:32,702 - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-09 21:50:43,001 - app - INFO - Workiing
+2024-03-09 21:50:43,003 - werkzeug - INFO - 127.0.0.1 - - [09/Mar/2024 21:50:43] "GET /healthCheck HTTP/1.1" 200 -
+2024-03-09 22:17:30,772 - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\app.py', reloading
+2024-03-09 22:17:30,929 - werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 437-280-492
+app - INFO - Workiing
+werkzeug - INFO - 127.0.0.1 - - [09/Mar/2024 22:17:34] "GET /healthCheck HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\app.py', reloading
+2024-03-09 22:17:46,360 - werkzeug - INFO -  * Restarting with stat
+2024-03-09 22:17:46,974 - werkzeug - WARNING -  * Debugger is active!
+2024-03-09 22:17:46,981 - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-09 22:18:57,752 - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\app.py', reloading
+2024-03-09 22:18:57,843 - werkzeug - INFO -  * Restarting with stat
+2024-03-09 22:18:58,498 - werkzeug - WARNING -  * Debugger is active!
+2024-03-09 22:18:58,511 - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-09 22:19:57,867 - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\app.py', reloading
+2024-03-09 22:19:58,103 - werkzeug - INFO -  * Restarting with stat
+2024-03-09T22:19:58Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-09T22:19:58Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-09T22:23:26Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\app.py', reloading
+2024-03-09 22:23:27,012 - werkzeug - INFO -  * Restarting with stat
+2024-03-09 22:24:31,179 - werkzeug - INFO -  * Restarting with stat
+2024-03-09T22:24:31Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-09T22:24:31Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-09T22:24:43Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\app.py', reloading
+2024-03-09 22:24:43,214 - werkzeug - INFO -  * Restarting with stat
+2024-03-09 22:25:19,759 - werkzeug - INFO -  * Restarting with stat
+2024-03-09T16:55:20Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-09T16:55:20Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-09T17:04:59Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\log_config.py', reloading
+2024-03-09 22:34:59,822 - werkzeug - INFO -  * Restarting with stat
+2024-03-09 22:43:35,080 - werkzeug - INFO -  * Restarting with stat
+2024-03-09T17:13:35Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-09T17:13:35Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-09T17:13:46Z - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-09T17:13:46Z - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-03-09T17:13:46Z - werkzeug - INFO -  * Restarting with stat
+2024-03-09T17:13:47Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-09T17:13:47Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T06:17:15Z - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-12T06:17:15Z - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-03-12T06:17:15Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T06:17:16Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T06:17:16Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T06:17:41Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 11:47:41] "GET /healthCheck HTTP/1.1" 200 -
+2024-03-12T06:18:18Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 11:48:18] "GET /healthCheck HTTP/1.1" 200 -
+2024-03-12T06:19:01Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\app.py', reloading
+2024-03-12T06:19:01Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T06:19:02Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T06:19:02Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T06:19:03Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 11:49:03] "GET /healthCheck HTTP/1.1" 200 -
+2024-03-12T06:19:09Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 11:49:09] "GET /healthCheck HTTP/1.1" 200 -
+2024-03-12T06:19:37Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 11:49:37] "GET /healthCheck HTTP/1.1" 200 -
+2024-03-12T06:19:56Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\app.py', reloading
+2024-03-12T06:19:56Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T06:19:56Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T06:19:56Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T06:19:56Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 11:49:56] "GET /healthCheck HTTP/1.1" 200 -
+2024-03-12T06:20:07Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\app.py', reloading
+2024-03-12T06:20:07Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T06:20:08Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T06:20:08Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T06:20:10Z - log_config - ERROR - Workiing
+2024-03-12T06:20:10Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 11:50:10] "GET /healthCheck HTTP/1.1" 200 -
+2024-03-12T06:20:24Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\app.py', reloading
+2024-03-12T06:20:24Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T06:20:24Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T06:20:24Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T06:20:26Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 11:50:26] "GET /healthCheck HTTP/1.1" 200 -
+2024-03-12T06:20:33Z - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-12T06:20:33Z - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-03-12T06:20:33Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T06:20:33Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T06:20:33Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T06:20:38Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 11:50:38] "GET /healthCheck HTTP/1.1" 200 -
+2024-03-12T06:21:07Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 11:51:07] "GET /healthCheck HTTP/1.1" 200 -
+2024-03-12T06:21:22Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\log_config.py', reloading
+2024-03-12T06:21:22Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T06:21:23Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T06:21:23Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T06:21:25Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 11:51:25] "GET /healthCheck HTTP/1.1" 200 -
+2024-03-12T06:21:33Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 11:51:33] "GET /healthCheck HTTP/1.1" 200 -
+2024-03-12T06:22:14Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\log_config.py', reloading
+2024-03-12T06:22:15Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T06:22:37Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T06:22:38Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T06:22:38Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T06:22:42Z - log_config - INFO - Workiing
+2024-03-12T06:22:42Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 11:52:42] "GET /healthCheck HTTP/1.1" 200 -
+2024-03-12T06:25:18Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\log_config.py', reloading
+2024-03-12T06:25:18Z - werkzeug - INFO -  * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 437-280-492
+INFO:log_config:Workiing
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 11:55:23] "GET /healthCheck HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\log_config.py', reloading
+2024-03-12T06:25:54Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T06:26:54Z - werkzeug - INFO -  * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 437-280-492
+INFO:werkzeug: * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\log_config.py', reloading
+2024-03-12T06:29:57Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T06:29:57Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T06:29:57Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T06:30:04Z - log_config - INFO - Workiing
+2024-03-12T06:30:04Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 12:00:04] "GET /healthCheck HTTP/1.1" 200 -
+2024-03-12T06:43:55Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\app.py', reloading
+2024-03-12T06:43:55Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T06:43:56Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T06:43:56Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T06:43:59Z - log_config - INFO - Workiing
+2024-03-12T06:43:59Z - log_config - INFO - Secret: 
+2024-03-12T06:43:59Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 12:13:59] "GET /healthCheck HTTP/1.1" 200 -
+2024-03-12T06:44:06Z - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-12T06:44:06Z - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-03-12T06:44:06Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T06:44:07Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T06:44:07Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T06:44:15Z - log_config - INFO - Workiing
+2024-03-12T06:44:15Z - log_config - INFO - Secret: 
+2024-03-12T06:44:15Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 12:14:15] "GET /healthCheck HTTP/1.1" 200 -
+2024-03-12T06:44:29Z - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-12T06:44:29Z - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-03-12T06:44:29Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T06:44:29Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T06:44:29Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T06:44:35Z - log_config - INFO - Workiing
+2024-03-12T06:44:35Z - log_config - INFO - Secret: Ji2FpP30nn1nVP1DGeh7HGn6B14KLW6Ko4n2G8dDe8V8am3CQW
+2024-03-12T06:44:35Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 12:14:35] "GET /healthCheck HTTP/1.1" 200 -
+2024-03-12T06:45:53Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\app.py', reloading
+2024-03-12T06:45:53Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T06:45:53Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T06:45:53Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T07:04:51Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\app.py', reloading
+2024-03-12T07:04:51Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T07:04:52Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T07:04:52Z - werkzeug - INFO -  * Debugger PIN: 142-533-026
+2024-03-12T07:04:53Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 12:34:53] "[35m[1mGET /healthCheck HTTP/1.1[0m" 500 -
+2024-03-12T07:05:21Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-12T07:05:21Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T07:05:21Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T07:05:21Z - werkzeug - INFO -  * Debugger PIN: 142-533-026
+2024-03-12T07:05:24Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 12:35:24] "[35m[1mGET /healthCheck HTTP/1.1[0m" 500 -
+2024-03-12T07:05:55Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-12T07:05:55Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T07:05:55Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T07:05:55Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T07:05:55Z - log_config - INFO - Workiing
+2024-03-12T07:05:55Z - log_config - INFO - Secret: Ji2FpP30nn1nVP1DGeh7HGn6B14KLW6Ko4n2G8dDe8V8am3CQW
+2024-03-12T07:05:55Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 12:35:55] "GET /healthCheck HTTP/1.1" 200 -
+2024-03-12T07:06:16Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 12:36:16] "POST /register HTTP/1.1" 200 -
+2024-03-12T07:13:44Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\db.py', reloading
+2024-03-12T07:13:44Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T07:13:45Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T07:13:45Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T07:14:47Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\db.py', reloading
+2024-03-12T07:14:47Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T07:14:47Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T07:14:47Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T07:16:24Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\db.py', reloading
+2024-03-12T07:16:25Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T07:16:25Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T07:16:25Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T07:16:28Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\db.py', reloading
+2024-03-12T07:16:28Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T07:16:28Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T07:16:28Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T07:43:22Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\db.py', reloading
+2024-03-12T07:43:22Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T07:43:23Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T07:43:23Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T07:44:13Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\db.py', reloading
+2024-03-12T07:44:13Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T07:44:13Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T07:44:13Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T07:45:40Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\db.py', reloading
+2024-03-12T07:45:40Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T07:45:41Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T07:45:41Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T07:47:58Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\db_conn_manager.py', reloading
+2024-03-12T07:47:58Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T07:47:58Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T07:47:58Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T07:54:42Z - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-12T07:54:42Z - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-03-12T07:54:42Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T07:54:42Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T07:54:42Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T07:54:58Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 13:24:58] "POST /register HTTP/1.1" 200 -
+2024-03-12T09:46:04Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-12T09:46:04Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T09:46:05Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T09:46:05Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T09:46:23Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 15:16:23] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-03-12T09:46:56Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-12T09:46:56Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T09:46:57Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T09:46:57Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T09:46:57Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 15:16:57] "POST /register HTTP/1.1" 200 -
+2024-03-12T09:47:09Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-12T09:47:09Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T09:47:10Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T09:47:10Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T09:47:10Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 15:17:10] "POST /register HTTP/1.1" 200 -
+2024-03-12T09:47:15Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-12T09:47:15Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T09:47:16Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T09:47:16Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T09:47:16Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 15:17:16] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-03-12T09:48:18Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-12T09:48:18Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T09:48:19Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T09:48:19Z - werkzeug - INFO -  * Debugger PIN: 142-533-026
+2024-03-12T09:48:22Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 15:18:22] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-03-12T09:49:00Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\app.py', reloading
+2024-03-12T09:49:01Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T09:49:01Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T09:49:01Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T09:49:02Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 15:19:02] "POST /register HTTP/1.1" 200 -
+2024-03-12T09:49:35Z - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-12T09:49:35Z - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-03-12T09:49:35Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T09:49:35Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T09:49:35Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T09:51:08Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-12T09:51:08Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T09:51:09Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T09:51:09Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T09:51:12Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 15:21:12] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-03-12T09:51:29Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-12T09:51:29Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T09:51:29Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T09:51:29Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T09:51:31Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 15:21:31] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-03-12T09:51:58Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-12T09:51:58Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T09:51:59Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T09:51:59Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T09:52:00Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 15:22:00] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-03-12T09:52:12Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-12T09:52:13Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T09:52:13Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T09:52:13Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T09:52:14Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 15:22:14] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-03-12T09:52:19Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-12T09:52:19Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T09:52:19Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T09:52:19Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T09:52:20Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 15:22:20] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-03-12T09:52:52Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-12T09:52:52Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T09:52:53Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T09:52:53Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T09:52:54Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 15:22:54] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-03-12T09:56:41Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-12T09:56:41Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T09:56:42Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T09:56:42Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T09:56:44Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 15:26:44] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-03-12T09:56:51Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-12T09:56:51Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T09:56:52Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T09:56:52Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T09:56:52Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 15:26:52] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-03-12T09:59:47Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-12T09:59:47Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T09:59:48Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T09:59:48Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T09:59:48Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 15:29:48] "POST /register HTTP/1.1" 200 -
+2024-03-12T10:07:23Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-12T10:07:23Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T10:07:24Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T10:07:24Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T10:07:26Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 15:37:26] "POST /register HTTP/1.1" 200 -
+2024-03-12T10:07:34Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-12T10:07:34Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T10:07:34Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T10:07:34Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T10:07:35Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 15:37:35] "POST /register HTTP/1.1" 200 -
+2024-03-12T10:07:53Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-12T10:07:53Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T10:07:54Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T10:07:54Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T11:26:12Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\p_handler.py', reloading
+2024-03-12T11:26:12Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T11:26:13Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T11:26:13Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T11:26:31Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\p_handler.py', reloading
+2024-03-12T11:26:31Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T11:26:32Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T11:26:32Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T14:43:27Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\p_handler.py', reloading
+2024-03-12T14:43:27Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T14:43:27Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T14:43:27Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T15:32:05Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\p_handler.py', reloading
+2024-03-12T15:32:05Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T15:32:06Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T15:32:06Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T16:31:59Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-12T16:31:59Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T16:32:00Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T16:32:00Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T16:32:02Z - log_config - ERROR - 'dict' object is not callable
+Traceback (most recent call last):
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 1466, in wsgi_app
+    response = self.handle_exception(e)
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 1463, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 872, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 870, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 855, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\register.py", line 11, in register_user
+    raw_req = request.json()
+TypeError: 'dict' object is not callable
+2024-03-12T16:32:02Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 22:02:02] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-03-12T16:32:16Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-12T16:32:16Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T16:32:17Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T16:32:17Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T16:32:17Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 22:02:17] "POST /register HTTP/1.1" 200 -
+2024-03-12T16:33:06Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-12T16:33:06Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T16:33:07Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T16:33:07Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T16:33:07Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 22:03:07] "POST /register HTTP/1.1" 200 -
+2024-03-12T16:33:35Z - log_config - INFO - Workiing
+2024-03-12T16:33:35Z - log_config - INFO - Secret: Ji2FpP30nn1nVP1DGeh7HGn6B14KLW6Ko4n2G8dDe8V8am3CQW
+2024-03-12T16:33:35Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 22:03:35] "GET /healthCheck HTTP/1.1" 200 -
+2024-03-12T16:33:42Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 22:03:42] "POST /register HTTP/1.1" 200 -
+2024-03-12T16:34:30Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-12T16:34:30Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T16:34:31Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T16:34:31Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T16:34:32Z - log_config - INFO - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '892026744', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-12T16:34:32Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 22:04:32] "POST /register HTTP/1.1" 200 -
+2024-03-12T16:34:38Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-12T16:34:39Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T16:34:39Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T16:34:39Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T16:34:40Z - log_config - ERROR - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '892026744', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-12T16:34:40Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 22:04:40] "POST /register HTTP/1.1" 200 -
+2024-03-12T16:34:56Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-12T16:34:56Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T16:34:57Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T16:34:57Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T16:34:57Z - log_config - WARNING - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '892026744', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-12T16:34:57Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 22:04:57] "POST /register HTTP/1.1" 200 -
+2024-03-12T16:35:03Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-12T16:35:03Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T16:35:04Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T16:35:04Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T16:35:04Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 22:05:04] "POST /register HTTP/1.1" 200 -
+2024-03-12T16:35:20Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\log_config.py', reloading
+2024-03-12T16:35:20Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T16:35:21Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T16:35:21Z - werkzeug - INFO -  * Debugger PIN: 437-280-492
+2024-03-12T16:35:21Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '892026744', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-12T16:35:21Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 22:05:21] "POST /register HTTP/1.1" 200 -
+2024-03-12T16:35:29Z - log_config - INFO - Workiing
+2024-03-12T16:35:29Z - log_config - INFO - Secret: Ji2FpP30nn1nVP1DGeh7HGn6B14KLW6Ko4n2G8dDe8V8am3CQW
+2024-03-12T16:35:29Z - werkzeug - INFO - 127.0.0.1 - - [12/Mar/2024 22:05:29] "GET /healthCheck HTTP/1.1" 200 -
+2024-03-12T16:37:43Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-12T16:37:44Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T16:37:44Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T16:37:44Z - werkzeug - INFO -  * Debugger PIN: 142-533-026
+2024-03-12T16:39:46Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-12T16:39:46Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T16:39:47Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T16:39:47Z - werkzeug - INFO -  * Debugger PIN: 142-533-026
+2024-03-12T16:40:01Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-12T16:40:02Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T16:40:02Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T16:40:02Z - werkzeug - INFO -  * Debugger PIN: 142-533-026
+2024-03-12T16:40:25Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-12T16:40:25Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T16:40:26Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T16:40:26Z - werkzeug - INFO -  * Debugger PIN: 142-533-026
+2024-03-12T16:41:52Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-12T16:41:52Z - werkzeug - INFO -  * Restarting with stat
+2024-03-12T16:41:52Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-12T16:41:52Z - werkzeug - INFO -  * Debugger PIN: 142-533-026
+2024-03-13T07:44:01Z - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-13T07:44:01Z - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-03-13T07:44:01Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T07:44:02Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T07:44:02Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T07:44:07Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '892026744', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T07:44:07Z - log_config - ERROR - User() takes no arguments
+Traceback (most recent call last):
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 1466, in wsgi_app
+    response = self.handle_exception(e)
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 1463, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 872, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 870, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 855, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\register.py", line 24, in register_user
+    user = User(f_name=raw_req["f_name"])
+TypeError: User() takes no arguments
+2024-03-13T07:44:07Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 13:14:07] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-03-13T07:44:21Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T07:44:21Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T07:44:21Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T07:44:22Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T07:44:23Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '892026744', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T07:44:23Z - log_config - ERROR - User() takes no arguments
+Traceback (most recent call last):
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 1466, in wsgi_app
+    response = self.handle_exception(e)
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 1463, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 872, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 870, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 855, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\register.py", line 24, in register_user
+    user = User(f_name=raw_req["f_name"])
+TypeError: User() takes no arguments
+2024-03-13T07:44:23Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 13:14:23] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-03-13T07:44:35Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '892026744', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T07:44:35Z - log_config - ERROR - User() takes no arguments
+Traceback (most recent call last):
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 1466, in wsgi_app
+    response = self.handle_exception(e)
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 1463, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 872, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 870, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 855, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\register.py", line 24, in register_user
+    user = User(f_name=raw_req["f_name"])
+TypeError: User() takes no arguments
+2024-03-13T07:44:35Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 13:14:35] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-03-13T07:44:43Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T07:44:43Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T07:44:44Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T07:44:44Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T07:46:23Z - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-13T07:46:23Z - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-03-13T07:46:23Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T07:46:24Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T07:46:24Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T07:47:15Z - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-13T07:47:15Z - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-03-13T07:47:15Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T07:47:15Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T07:47:15Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T07:47:22Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '892026744', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T07:47:22Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 13:17:22] "POST /register HTTP/1.1" 200 -
+2024-03-13T07:48:37Z - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-13T07:48:37Z - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-03-13T07:48:37Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T07:48:38Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T07:48:38Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T07:48:40Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '892026744', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T07:48:40Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 13:18:40] "POST /register HTTP/1.1" 200 -
+2024-03-13T07:59:48Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T07:59:48Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T07:59:49Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T07:59:49Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T08:24:08Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T08:24:08Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T08:24:09Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T08:24:09Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T08:24:10Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T08:24:10Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T08:24:11Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T08:24:11Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T08:24:15Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '892026744', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T08:24:15Z - log_config - ERROR - 'User' object has no attribute '_fname'
+Traceback (most recent call last):
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 1466, in wsgi_app
+    response = self.handle_exception(e)
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 1463, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 872, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 870, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 855, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\register.py", line 24, in register_user
+    user = User(f_name=raw_req["f_name"])
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\register.py", line 12, in __init__
+    self.f_name = f_name
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\validators.py", line 12, in __set__
+    self.validate(instance._fname)
+AttributeError: 'User' object has no attribute '_fname'
+2024-03-13T08:24:15Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 13:54:15] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-03-13T08:24:50Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T08:24:50Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T08:24:51Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T08:24:51Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T08:24:54Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '892026744', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T08:24:54Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 13:54:54] "POST /register HTTP/1.1" 200 -
+2024-03-13T08:25:14Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T08:25:14Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T08:25:15Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T08:25:15Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T08:25:16Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '892026744', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T08:25:16Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 13:55:16] "POST /register HTTP/1.1" 200 -
+2024-03-13T08:25:21Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '892026744', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T08:25:21Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 13:55:21] "POST /register HTTP/1.1" 200 -
+2024-03-13T08:26:53Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T08:26:53Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T08:26:54Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T08:26:54Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T08:26:55Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '892026744', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T08:26:55Z - log_config - ERROR - maximum recursion depth exceeded while calling a Python object
+Traceback (most recent call last):
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 1466, in wsgi_app
+    response = self.handle_exception(e)
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 1463, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 872, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 870, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 855, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\register.py", line 24, in register_user
+    user = User(f_name=raw_req["f_name"])
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\register.py", line 12, in __init__
+    self.f_name = f_name
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\validators.py", line 12, in __set__
+    instance.f_name = value
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\validators.py", line 12, in __set__
+    instance.f_name = value
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\validators.py", line 12, in __set__
+    instance.f_name = value
+  [Previous line repeated 974 more times]
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\validators.py", line 11, in __set__
+    self.validate(value)
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\validators.py", line 15, in validate
+    if not isinstance(value, str):
+RecursionError: maximum recursion depth exceeded while calling a Python object
+2024-03-13T08:26:57Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 13:56:57] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-03-13T08:27:48Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T08:27:48Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T08:27:49Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T08:27:49Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T08:27:50Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '892026744', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T08:27:50Z - log_config - ERROR - maximum recursion depth exceeded
+Traceback (most recent call last):
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 1466, in wsgi_app
+    response = self.handle_exception(e)
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 1463, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 872, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 870, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 855, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\register.py", line 24, in register_user
+    user = User(f_name=raw_req["f_name"])
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\register.py", line 12, in __init__
+    self.f_name = f_name
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\validators.py", line 14, in __set__
+    print(instance.f_name)
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\validators.py", line 8, in __get__
+    return instance.f_name
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\validators.py", line 8, in __get__
+    return instance.f_name
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\validators.py", line 8, in __get__
+    return instance.f_name
+  [Previous line repeated 975 more times]
+RecursionError: maximum recursion depth exceeded
+2024-03-13T08:27:52Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 13:57:52] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-03-13T08:28:26Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T08:28:26Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T08:28:26Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T08:28:26Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T08:28:28Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '892026744', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T08:28:28Z - log_config - ERROR - maximum recursion depth exceeded
+Traceback (most recent call last):
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 1466, in wsgi_app
+    response = self.handle_exception(e)
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 1463, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 872, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 870, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 855, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\register.py", line 24, in register_user
+    user = User(f_name=raw_req["f_name"])
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\register.py", line 12, in __init__
+    self.f_name = f_name
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\validators.py", line 13, in __set__
+    print(instance.f_name)
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\validators.py", line 8, in __get__
+    return instance.f_name
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\validators.py", line 8, in __get__
+    return instance.f_name
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\validators.py", line 8, in __get__
+    return instance.f_name
+  [Previous line repeated 975 more times]
+RecursionError: maximum recursion depth exceeded
+2024-03-13T08:28:30Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 13:58:30] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-03-13T08:30:06Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T08:30:06Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T08:30:07Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T08:30:07Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T08:30:10Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '892026744', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T08:30:10Z - log_config - ERROR - maximum recursion depth exceeded while calling a Python object
+Traceback (most recent call last):
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 1466, in wsgi_app
+    response = self.handle_exception(e)
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 1463, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 872, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 870, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 855, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\register.py", line 24, in register_user
+    user = User(f_name=raw_req["f_name"])
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\register.py", line 12, in __init__
+    self.f_name = f_name
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\validators.py", line 15, in __set__
+    print(instance.f_name)
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\validators.py", line 9, in __get__
+    print(instance.f_name)
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\validators.py", line 9, in __get__
+    print(instance.f_name)
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\validators.py", line 9, in __get__
+    print(instance.f_name)
+  [Previous line repeated 971 more times]
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\validators.py", line 8, in __get__
+    print(instance)
+RecursionError: maximum recursion depth exceeded while calling a Python object
+2024-03-13T08:30:12Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 14:00:12] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-03-13T08:31:12Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T08:31:12Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T08:31:13Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T08:31:13Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T08:31:21Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '892026744', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T08:31:22Z - log_config - ERROR - maximum recursion depth exceeded while calling a Python object
+Traceback (most recent call last):
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 1466, in wsgi_app
+    response = self.handle_exception(e)
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 1463, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 872, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 870, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 855, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\register.py", line 24, in register_user
+    user = User(f_name=raw_req["f_name"])
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\register.py", line 12, in __init__
+    self.f_name = f_name
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\validators.py", line 15, in __set__
+    print(instance.f_name)
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\validators.py", line 9, in __get__
+    print(instance.f_name)
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\validators.py", line 9, in __get__
+    print(instance.f_name)
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\validators.py", line 9, in __get__
+    print(instance.f_name)
+  [Previous line repeated 971 more times]
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\validators.py", line 8, in __get__
+    print(instance)
+RecursionError: maximum recursion depth exceeded while calling a Python object
+2024-03-13T08:31:24Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 14:01:24] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-03-13T08:32:10Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T08:32:10Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T08:32:11Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T08:32:11Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T08:32:12Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '892026744', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T08:32:12Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 14:02:12] "POST /register HTTP/1.1" 200 -
+2024-03-13T08:32:34Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T08:32:34Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T08:32:34Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T08:32:34Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T08:32:36Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '892026744', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T08:32:36Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 14:02:36] "POST /register HTTP/1.1" 200 -
+2024-03-13T08:32:46Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T08:32:46Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T08:32:47Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T08:32:47Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T08:32:48Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '892026744', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T08:32:48Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 14:02:48] "POST /register HTTP/1.1" 200 -
+2024-03-13T08:32:58Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T08:32:58Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T08:32:59Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T08:32:59Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T08:32:59Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '892026744', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T08:32:59Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 14:02:59] "POST /register HTTP/1.1" 200 -
+2024-03-13T08:33:15Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T08:33:15Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T08:33:16Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T08:33:16Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T08:33:21Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T08:33:21Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T08:33:22Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T08:33:22Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T08:33:23Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '892026744', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T08:33:23Z - log_config - ERROR - maximum recursion depth exceeded while calling a Python object
+Traceback (most recent call last):
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 1466, in wsgi_app
+    response = self.handle_exception(e)
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 1463, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 872, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 870, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 855, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\register.py", line 24, in register_user
+    user = User(f_name=raw_req["f_name"])
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\register.py", line 12, in __init__
+    self.f_name = f_name
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\validators.py", line 13, in __set__
+    instance.f_name = value
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\validators.py", line 13, in __set__
+    instance.f_name = value
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\validators.py", line 13, in __set__
+    instance.f_name = value
+  [Previous line repeated 972 more times]
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\validators.py", line 11, in __set__
+    print(instance.__dict__)
+RecursionError: maximum recursion depth exceeded while calling a Python object
+2024-03-13T08:33:25Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 14:03:25] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-03-13T08:34:03Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T08:34:03Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T08:34:03Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T08:34:03Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T08:37:03Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T08:37:03Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T08:37:03Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T08:37:03Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T08:37:08Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '892026744', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T08:37:08Z - log_config - ERROR - maximum recursion depth exceeded while calling a Python object
+Traceback (most recent call last):
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 1466, in wsgi_app
+    response = self.handle_exception(e)
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 1463, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 872, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 870, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 855, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\register.py", line 24, in register_user
+    user = User(f_name=raw_req["f_name"])
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\register.py", line 12, in __init__
+    self.f_name = f_name
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\validators.py", line 16, in __set__
+    instance.f_name = value
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\validators.py", line 16, in __set__
+    instance.f_name = value
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\validators.py", line 16, in __set__
+    instance.f_name = value
+  [Previous line repeated 972 more times]
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\validators.py", line 14, in __set__
+    print(instance.__dict__)
+RecursionError: maximum recursion depth exceeded while calling a Python object
+2024-03-13T08:37:10Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 14:07:10] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-03-13T08:37:51Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T08:37:51Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T08:37:51Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T08:37:51Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T08:37:54Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '892026744', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T08:37:54Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 14:07:54] "POST /register HTTP/1.1" 200 -
+2024-03-13T08:38:11Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T08:38:11Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T08:38:12Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T08:38:12Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T08:38:13Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '892026744', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T08:38:13Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 14:08:13] "POST /register HTTP/1.1" 200 -
+2024-03-13T08:38:20Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T08:38:20Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T08:38:20Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T08:38:20Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T08:38:22Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '892026744', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T08:38:22Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 14:08:22] "POST /register HTTP/1.1" 200 -
+2024-03-13T08:39:17Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T08:39:17Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T08:39:18Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T08:39:18Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T08:39:21Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '892026744', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T08:39:21Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 14:09:21] "POST /register HTTP/1.1" 200 -
+2024-03-13T08:39:56Z - log_config - DEBUG - Raw Request: {'f_name': 1, 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '892026744', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T08:39:56Z - log_config - ERROR - First Name should be a string
+Traceback (most recent call last):
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 1466, in wsgi_app
+    response = self.handle_exception(e)
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 1463, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 872, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 870, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\venv\lib\site-packages\flask\app.py", line 855, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\register.py", line 24, in register_user
+    user = User(f_name=raw_req["f_name"])
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\register.py", line 12, in __init__
+    self.f_name = f_name
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\validators.py", line 16, in __set__
+    self.validate(value)
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\validators.py", line 22, in validate
+    raise ValueError("First Name should be a string")
+ValueError: First Name should be a string
+2024-03-13T08:39:56Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 14:09:56] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-03-13T08:40:04Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '892026744', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T08:40:04Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 14:10:04] "POST /register HTTP/1.1" 200 -
+2024-03-13T08:41:20Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T08:41:20Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T08:41:21Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T08:41:21Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T08:41:22Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '892026744', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T08:41:22Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 14:11:22] "POST /register HTTP/1.1" 200 -
+2024-03-13T08:41:49Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T08:41:49Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T08:41:50Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T08:41:50Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T08:41:51Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '892026744', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T08:41:51Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 14:11:51] "POST /register HTTP/1.1" 200 -
+2024-03-13T08:42:08Z - log_config - DEBUG - Raw Request: {'f_name': 1, 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '892026744', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T08:42:08Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 14:12:08] "[31m[1mPOST /register HTTP/1.1[0m" 400 -
+2024-03-13T08:47:09Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T08:47:09Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T08:47:10Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T08:47:10Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T08:47:12Z - log_config - DEBUG - Raw Request: {'f_name': 1, 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '892026744', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T08:47:12Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 14:17:12] "[31m[1mPOST /register HTTP/1.1[0m" 400 -
+2024-03-13T08:47:18Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '892026744', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T08:47:18Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 14:17:18] "POST /register HTTP/1.1" 200 -
+2024-03-13T08:47:34Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 2, 'primary_contact_number': '892026744', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T08:47:34Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 14:17:34] "[31m[1mPOST /register HTTP/1.1[0m" 400 -
+2024-03-13T08:47:42Z - log_config - DEBUG - Raw Request: {'f_name': 1, 'm_name': 'n', 'l_name': 2, 'primary_contact_number': '892026744', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T08:47:42Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 14:17:42] "[31m[1mPOST /register HTTP/1.1[0m" 400 -
+2024-03-13T08:47:59Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '892026744', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T08:47:59Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 14:17:59] "POST /register HTTP/1.1" 200 -
+2024-03-13T09:22:01Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T09:22:01Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T09:22:02Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T09:22:02Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T09:22:46Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T09:22:46Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T09:22:46Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T09:22:46Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T09:25:55Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T09:25:55Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T09:25:56Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T09:25:56Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T09:29:30Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T09:29:30Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T09:29:30Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T09:29:30Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T09:29:35Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '892026744', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T09:29:35Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 14:59:35] "POST /register HTTP/1.1" 200 -
+2024-03-13T09:30:18Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T09:30:18Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T09:30:18Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T09:30:18Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T09:30:20Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '892026744', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T09:30:20Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 15:00:20] "[31m[1mPOST /register HTTP/1.1[0m" 400 -
+2024-03-13T09:30:36Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '8920267444', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T09:30:36Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 15:00:36] "POST /register HTTP/1.1" 200 -
+2024-03-13T09:31:19Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T09:31:19Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T09:31:19Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T09:31:19Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T09:31:25Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '8920267a44', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T09:31:25Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 15:01:25] "[31m[1mPOST /register HTTP/1.1[0m" 400 -
+2024-03-13T09:31:31Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '8920267444', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T09:31:31Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 15:01:31] "POST /register HTTP/1.1" 200 -
+2024-03-13T09:31:42Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '892026744', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T09:31:42Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 15:01:42] "[31m[1mPOST /register HTTP/1.1[0m" 400 -
+2024-03-13T09:31:48Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '89202674444', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T09:31:48Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 15:01:48] "[31m[1mPOST /register HTTP/1.1[0m" 400 -
+2024-03-13T09:31:54Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '8920267444', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T09:31:54Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 15:01:54] "POST /register HTTP/1.1" 200 -
+2024-03-13T09:34:22Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T09:34:22Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T09:34:23Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T09:34:23Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T09:36:51Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T09:36:51Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T09:36:52Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T09:36:52Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T09:40:59Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T09:41:00Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T09:41:00Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T09:41:00Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T09:41:23Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T09:41:23Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T09:41:24Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T09:41:24Z - werkzeug - INFO -  * Debugger PIN: 546-476-464
+2024-03-13T09:43:03Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T09:43:03Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T09:43:03Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T09:43:03Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T09:54:29Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T09:54:29Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T09:54:30Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T09:54:30Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T10:09:28Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T10:09:28Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T10:09:29Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T10:09:29Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T10:16:40Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T10:16:40Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T10:16:41Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T10:16:41Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T10:20:50Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T10:20:51Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T10:20:51Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T10:20:51Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T11:02:23Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T11:02:23Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T11:02:24Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T11:02:24Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T16:35:23Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T16:35:23Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T16:35:24Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T16:35:24Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T16:48:21Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T16:48:21Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T16:48:21Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T16:48:21Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T16:52:44Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T16:52:44Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T16:52:44Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T16:52:44Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T16:53:26Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T16:53:26Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T16:53:27Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T16:53:27Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T16:53:35Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T16:53:35Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T16:53:35Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T16:53:35Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T16:53:40Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T16:53:40Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T16:53:41Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T16:53:41Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T16:53:44Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T16:53:44Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T16:53:44Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T16:53:44Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T16:53:47Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T16:53:47Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T16:53:47Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T16:53:47Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T16:53:54Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T16:53:54Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T16:53:54Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T16:53:54Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T16:55:21Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T16:55:21Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T17:44:10Z - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-13T17:44:10Z - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-03-13T17:44:10Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T17:44:11Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T17:44:11Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T17:44:18Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '8920267444', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T17:44:18Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 23:14:18] "[31m[1mPOST /register HTTP/1.1[0m" 400 -
+2024-03-13T17:52:11Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T17:52:11Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T17:52:11Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T17:52:11Z - werkzeug - INFO -  * Debugger PIN: 546-476-464
+2024-03-13T17:52:18Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T17:52:18Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T17:52:19Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T17:52:19Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T17:52:20Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T17:52:20Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T17:52:20Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T17:52:20Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T17:52:29Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T17:52:29Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T17:52:30Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T17:52:30Z - werkzeug - INFO -  * Debugger PIN: 546-476-464
+2024-03-13T17:52:37Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T17:52:37Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T17:52:37Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T17:52:37Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T17:52:38Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T17:52:38Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T17:52:38Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T17:52:38Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T17:52:42Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T17:52:42Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T17:52:42Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T17:52:42Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T17:53:03Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T17:53:03Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T17:53:04Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T17:53:04Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T17:53:05Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T17:53:05Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T17:53:05Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T17:53:05Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T17:53:08Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '8920267444', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T17:53:09Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 23:23:09] "POST /register HTTP/1.1" 200 -
+2024-03-13T17:53:16Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'l_name': 'terento', 'primary_contact_number': '8920267444', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T17:53:16Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 23:23:16] "[31m[1mPOST /register HTTP/1.1[0m" 400 -
+2024-03-13T17:55:36Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T17:55:36Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T17:55:37Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T17:55:37Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T17:55:42Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T17:55:42Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T17:55:42Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T17:55:42Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T17:55:44Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'l_name': 'terento', 'primary_contact_number': '8920267444', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T17:55:44Z - log_config - ERROR - 'm_name'
+Traceback (most recent call last):
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\register.py", line 46, in register_user
+    user = User(
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\register.py", line 33, in __init__
+    if req['m_name']:
+KeyError: 'm_name'
+2024-03-13T17:55:44Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 23:25:44] "[31m[1mPOST /register HTTP/1.1[0m" 400 -
+2024-03-13T17:55:55Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T17:55:56Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T17:55:56Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T17:55:56Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T17:55:58Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T17:55:58Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T17:55:58Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T17:55:58Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T17:56:00Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T17:56:00Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T17:56:01Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T17:56:01Z - werkzeug - INFO -  * Debugger PIN: 546-476-464
+2024-03-13T17:56:02Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T17:56:02Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T17:56:02Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T17:56:02Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T17:56:05Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'l_name': 'terento', 'primary_contact_number': '8920267444', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T17:56:05Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 23:26:05] "POST /register HTTP/1.1" 200 -
+2024-03-13T17:56:23Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '8920267444', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T17:56:23Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 23:26:23] "POST /register HTTP/1.1" 200 -
+2024-03-13T17:56:55Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T17:56:55Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T17:56:55Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T17:56:55Z - werkzeug - INFO -  * Debugger PIN: 546-476-464
+2024-03-13T17:57:00Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T17:57:01Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T17:57:01Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T17:57:01Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T17:57:08Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T17:57:08Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T17:57:08Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T17:57:08Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T17:57:09Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T17:57:09Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T17:57:10Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T17:57:10Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T17:57:12Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T17:57:12Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T17:57:12Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T17:57:12Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T17:57:18Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '8920267444', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T17:57:18Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 23:27:18] "POST /register HTTP/1.1" 200 -
+2024-03-13T17:57:27Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'l_name': 'terento', 'primary_contact_number': '8920267444', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T17:57:27Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 23:27:27] "POST /register HTTP/1.1" 200 -
+2024-03-13T17:57:35Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'l_name': 'terento', 'primary_contact_number': '8920267444', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T17:57:35Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 23:27:35] "POST /register HTTP/1.1" 200 -
+2024-03-13T17:57:45Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'l_name': 'terento', 'primary_contact_number': '8920267444', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T17:57:45Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 23:27:45] "POST /register HTTP/1.1" 200 -
+2024-03-13T17:58:06Z - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-13T17:58:06Z - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-03-13T17:58:06Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T17:58:07Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T17:58:07Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T17:58:11Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'l_name': 'terento', 'primary_contact_number': '8920267444', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T17:58:11Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 23:28:11] "POST /register HTTP/1.1" 200 -
+2024-03-13T17:58:24Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '8920267444', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T17:58:24Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 23:28:24] "POST /register HTTP/1.1" 200 -
+2024-03-13T17:58:31Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'l_name': 'terento', 'primary_contact_number': '8920267444', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T17:58:31Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 23:28:31] "POST /register HTTP/1.1" 200 -
+2024-03-13T17:58:33Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'l_name': 'terento', 'primary_contact_number': '8920267444', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T17:58:33Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 23:28:33] "POST /register HTTP/1.1" 200 -
+2024-03-13T18:00:02Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\db_conn_manager.py', reloading
+2024-03-13T18:00:02Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:00:03Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:00:03Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:00:14Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\db_conn_manager.py', reloading
+2024-03-13T18:00:14Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:00:14Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:00:14Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:00:25Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\db_conn_manager.py', reloading
+2024-03-13T18:00:25Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:00:26Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:00:26Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:00:47Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:00:47Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:00:48Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:00:48Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:00:50Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'l_name': 'terento', 'primary_contact_number': '8920267444', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T18:00:50Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 23:30:50] "POST /register HTTP/1.1" 200 -
+2024-03-13T18:00:57Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '8920267444', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T18:00:57Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 23:30:57] "POST /register HTTP/1.1" 200 -
+2024-03-13T18:01:03Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'l_name': 'terento', 'primary_contact_number': '8920267444', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T18:01:03Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 23:31:03] "POST /register HTTP/1.1" 200 -
+2024-03-13T18:01:10Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'l_name': 'terento', 'primary_contact_number': '8920267444', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T18:01:10Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 23:31:10] "POST /register HTTP/1.1" 200 -
+2024-03-13T18:01:13Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'l_name': 'terento', 'primary_contact_number': '8920267444', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T18:01:13Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 23:31:13] "POST /register HTTP/1.1" 200 -
+2024-03-13T18:01:28Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'l_name': 'terento', 'primary_contact_number': '8920267444', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T18:01:28Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 23:31:28] "POST /register HTTP/1.1" 200 -
+2024-03-13T18:06:50Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:06:50Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:06:50Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:06:50Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:06:52Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:06:52Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:06:53Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:06:53Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:06:54Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:06:54Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:06:54Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:06:54Z - werkzeug - INFO -  * Debugger PIN: 546-476-464
+2024-03-13T18:06:56Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:06:56Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:06:57Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:06:57Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:07:02Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'l_name': 'terento', 'primary_contact_number': '8920267444', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T18:07:02Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 23:37:02] "POST /register HTTP/1.1" 200 -
+2024-03-13T18:07:10Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '8920267444', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T18:07:10Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 23:37:10] "POST /register HTTP/1.1" 200 -
+2024-03-13T18:07:16Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'l_name': 'terento', 'primary_contact_number': '8920267444', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T18:07:16Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 23:37:16] "POST /register HTTP/1.1" 200 -
+2024-03-13T18:07:25Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:07:25Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:07:25Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:07:25Z - werkzeug - INFO -  * Debugger PIN: 546-476-464
+2024-03-13T18:07:29Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:07:29Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:07:29Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:07:29Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:07:30Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'l_name': 'terento', 'primary_contact_number': '8920267444', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T18:07:30Z - log_config - ERROR - Middle Name should be a string
+Traceback (most recent call last):
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\register.py", line 45, in register_user
+    user = User(
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\register.py", line 33, in __init__
+    self.m_name = req.get('m_name')
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\validators.py", line 60, in __set__
+    self.validate(value)
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\validators.py", line 65, in validate
+    raise ValueError("Middle Name should be a string")
+ValueError: Middle Name should be a string
+2024-03-13T18:07:30Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 23:37:30] "[31m[1mPOST /register HTTP/1.1[0m" 400 -
+2024-03-13T18:07:41Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:07:41Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:07:42Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:07:42Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:07:42Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'l_name': 'terento', 'primary_contact_number': '8920267444', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T18:07:42Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 23:37:42] "POST /register HTTP/1.1" 200 -
+2024-03-13T18:07:55Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '8920267444', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T18:07:55Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 23:37:55] "POST /register HTTP/1.1" 200 -
+2024-03-13T18:08:01Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'l_name': 'terento', 'primary_contact_number': '8920267444', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T18:08:01Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 23:38:01] "POST /register HTTP/1.1" 200 -
+2024-03-13T18:08:16Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:08:16Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:08:17Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:08:17Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:08:19Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:08:19Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:08:19Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:08:19Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:08:30Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:08:30Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:08:31Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:08:31Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:17:04Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '8920267444', 'secondary_contact_number': '7042187129', 'primary_email_address': 'v', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T18:17:04Z - log_config - ERROR - Enter a completely valid email address.
+Traceback (most recent call last):
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\register.py", line 45, in register_user
+    user = User(
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\register.py", line 28, in __init__
+    self.p_email = req['primary_email_address']
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\validators.py", line 116, in __set__
+    self.validate(value)
+  File "C:\Users\djang\code\projects\food-truck-management-system\backend\user_registration\validators.py", line 124, in validate
+    raise ValueError("Enter a completely valid email address.")
+ValueError: Enter a completely valid email address.
+2024-03-13T18:17:04Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 23:47:04] "[31m[1mPOST /register HTTP/1.1[0m" 400 -
+2024-03-13T18:17:09Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '8920267444', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T18:17:09Z - werkzeug - INFO - 127.0.0.1 - - [13/Mar/2024 23:47:09] "POST /register HTTP/1.1" 200 -
+2024-03-13T18:17:35Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:17:35Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:17:36Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:17:36Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:18:07Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:18:07Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:18:08Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:18:08Z - werkzeug - INFO -  * Debugger PIN: 546-476-464
+2024-03-13T18:18:10Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:18:10Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:18:10Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:18:10Z - werkzeug - INFO -  * Debugger PIN: 546-476-464
+2024-03-13T18:18:13Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:18:13Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:18:13Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:18:13Z - werkzeug - INFO -  * Debugger PIN: 546-476-464
+2024-03-13T18:21:35Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:21:35Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:21:35Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:21:35Z - werkzeug - INFO -  * Debugger PIN: 546-476-464
+2024-03-13T18:21:53Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:21:53Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:21:54Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:21:54Z - werkzeug - INFO -  * Debugger PIN: 546-476-464
+2024-03-13T18:21:56Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:21:56Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:21:56Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:21:56Z - werkzeug - INFO -  * Debugger PIN: 546-476-464
+2024-03-13T18:21:57Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:21:57Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:21:57Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:21:57Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:21:59Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:21:59Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:21:59Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:21:59Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:22:03Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:22:03Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:22:03Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:22:03Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:22:05Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:22:06Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:22:06Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:22:06Z - werkzeug - INFO -  * Debugger PIN: 546-476-464
+2024-03-13T18:22:08Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:22:08Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:22:08Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:22:08Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:22:12Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:22:12Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:22:13Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:22:13Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:22:21Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:22:21Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:22:21Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:22:21Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:24:11Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:24:11Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:24:11Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:24:11Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:24:15Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:24:15Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:24:16Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:24:16Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:24:18Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:24:18Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:24:18Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:24:18Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:24:20Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:24:20Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:24:21Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:24:21Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:24:23Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:24:23Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:24:23Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:24:23Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:36:50Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:36:50Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:36:50Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:36:50Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:36:53Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:36:53Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:36:53Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:36:53Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:36:59Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:36:59Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:36:59Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:36:59Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:37:00Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:37:01Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:37:01Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:37:01Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:37:23Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:37:23Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:37:24Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:37:24Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:37:25Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:37:25Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:37:25Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:37:25Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:37:28Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:37:28Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:37:29Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:37:29Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:37:40Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:37:40Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:37:40Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:37:40Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:37:48Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:37:48Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:37:49Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:37:49Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:37:56Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:37:56Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:37:56Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:37:56Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:38:02Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:38:02Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:38:03Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:38:03Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:38:13Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:38:13Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:38:13Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:38:13Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:39:23Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:39:23Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:39:24Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:39:24Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:39:30Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:39:30Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:39:30Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:39:30Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:39:33Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:39:33Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:39:34Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:39:34Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:39:35Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:39:35Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:39:35Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:39:35Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:39:41Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:39:41Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:39:42Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:39:42Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:39:43Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:39:43Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:39:43Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:39:43Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:39:50Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:39:50Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:39:51Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:39:51Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:39:54Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:39:54Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:39:54Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:39:54Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:40:28Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:40:28Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:40:28Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:40:28Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:40:29Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:40:29Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:40:29Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:40:30Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:40:45Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:40:45Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:40:45Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:40:45Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:41:10Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:41:10Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:41:10Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:41:10Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:49:42Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:49:43Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:49:44Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:49:44Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:49:46Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:49:47Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:49:47Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:49:47Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:49:50Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:49:50Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:49:50Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:49:50Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:50:10Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:50:10Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:50:10Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:50:10Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:50:11Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:50:11Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:50:12Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:50:12Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:50:14Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:50:14Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:50:14Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:50:14Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:50:16Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:50:16Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:50:16Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:50:16Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:50:25Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:50:25Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:50:25Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:50:25Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:50:35Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:50:35Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:50:36Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:50:36Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:50:42Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:50:42Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:50:42Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:50:42Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:50:46Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:50:46Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:50:47Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:50:47Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:50:53Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:50:53Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:50:53Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:50:53Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:50:59Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:50:59Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:51:00Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:51:00Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:51:12Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:51:12Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:51:12Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:51:12Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:51:16Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:51:16Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:51:17Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:51:17Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:51:19Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:51:19Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:51:19Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:51:19Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:51:20Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:51:20Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:51:21Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:51:21Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:51:25Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:51:25Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:51:25Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:51:25Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:51:29Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:51:29Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:51:29Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:51:29Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:52:12Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:52:12Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:52:12Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:52:12Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:52:16Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:52:16Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:52:16Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:52:16Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:52:21Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:52:21Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:52:21Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:52:21Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:52:34Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:52:34Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:52:34Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:52:34Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:52:53Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:52:53Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:52:54Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:52:54Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:52:56Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:52:56Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:52:56Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:52:56Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:52:59Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:52:59Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:53:00Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:53:00Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:53:02Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:53:02Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:53:02Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:53:02Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:53:03Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:53:03Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:53:04Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:53:04Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:53:16Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:53:16Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:53:16Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:53:16Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:53:19Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:53:19Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:53:20Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:53:20Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:53:24Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:53:24Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:53:24Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:53:24Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:53:27Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:53:27Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:53:27Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:53:28Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:53:30Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:53:30Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:53:30Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:53:30Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:53:32Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:53:32Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:53:32Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:53:32Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:53:46Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:53:46Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:53:46Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:53:46Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:53:53Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:53:53Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:53:54Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:53:54Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:54:02Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:54:02Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:54:02Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:54:02Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:54:03Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:54:03Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:54:04Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:54:04Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:54:06Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:54:06Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:54:06Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:54:06Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:54:27Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:54:27Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:54:28Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:54:28Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:54:29Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:54:29Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:54:29Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:54:29Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:54:30Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:54:30Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:54:31Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:54:31Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:54:52Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:54:52Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:54:52Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:54:52Z - werkzeug - INFO -  * Debugger PIN: 546-476-464
+2024-03-13T18:54:55Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:54:55Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:54:56Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:54:56Z - werkzeug - INFO -  * Debugger PIN: 546-476-464
+2024-03-13T18:55:05Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:55:05Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:55:05Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:55:05Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:55:11Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:55:12Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:55:12Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:55:12Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:55:15Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:55:15Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:55:15Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:55:15Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:55:21Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:55:21Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:55:22Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:55:22Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:55:24Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:55:24Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:55:24Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:55:24Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:55:32Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:55:32Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:55:33Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:55:33Z - werkzeug - INFO -  * Debugger PIN: 546-476-464
+2024-03-13T18:55:35Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:55:35Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:55:35Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:55:35Z - werkzeug - INFO -  * Debugger PIN: 546-476-464
+2024-03-13T18:55:37Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:55:37Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:55:38Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:55:38Z - werkzeug - INFO -  * Debugger PIN: 546-476-464
+2024-03-13T18:55:39Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:55:39Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:55:39Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:55:39Z - werkzeug - INFO -  * Debugger PIN: 546-476-464
+2024-03-13T18:56:01Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:56:01Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:56:01Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:56:01Z - werkzeug - INFO -  * Debugger PIN: 546-476-464
+2024-03-13T18:56:11Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:56:11Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:56:12Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:56:12Z - werkzeug - INFO -  * Debugger PIN: 546-476-464
+2024-03-13T18:56:25Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:56:25Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:56:25Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:56:25Z - werkzeug - INFO -  * Debugger PIN: 546-476-464
+2024-03-13T18:56:40Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T18:56:40Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:56:41Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:56:41Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:57:02Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '8920267444', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T18:57:02Z - werkzeug - INFO - 127.0.0.1 - - [14/Mar/2024 00:27:02] "POST /register HTTP/1.1" 200 -
+2024-03-13T18:57:21Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '8920267444', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T18:57:21Z - werkzeug - INFO - 127.0.0.1 - - [14/Mar/2024 00:27:21] "POST /register HTTP/1.1" 200 -
+2024-03-13T18:57:36Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '8920267444', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T18:57:36Z - werkzeug - INFO - 127.0.0.1 - - [14/Mar/2024 00:27:36] "POST /register HTTP/1.1" 200 -
+2024-03-13T18:58:23Z - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-13T18:58:23Z - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-03-13T18:58:23Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:58:23Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:58:23Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:59:10Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T18:59:11Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:59:11Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:59:11Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:59:13Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T18:59:13Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:59:14Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:59:14Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T18:59:17Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '8920267444', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T18:59:17Z - werkzeug - INFO - 127.0.0.1 - - [14/Mar/2024 00:29:17] "POST /register HTTP/1.1" 200 -
+2024-03-13T18:59:34Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '8920267444', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T18:59:34Z - werkzeug - INFO - 127.0.0.1 - - [14/Mar/2024 00:29:34] "POST /register HTTP/1.1" 200 -
+2024-03-13T18:59:50Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\validators.py', reloading
+2024-03-13T18:59:50Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T18:59:51Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T18:59:51Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T19:00:36Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T19:00:36Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T19:00:37Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T19:00:37Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T19:00:41Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T19:00:41Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T19:00:42Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T19:00:42Z - werkzeug - INFO -  * Debugger PIN: 546-476-464
+2024-03-13T19:00:45Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T19:00:45Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T19:00:46Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T19:00:46Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T19:00:49Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T19:00:49Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T19:00:50Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T19:00:50Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T19:01:55Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T19:01:55Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T19:01:56Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T19:01:56Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T19:02:24Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\db_conn_manager.py', reloading
+2024-03-13T19:02:24Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T19:02:24Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T19:02:24Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T19:02:54Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T19:02:54Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T19:02:55Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T19:02:55Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T19:03:07Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T19:03:07Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T19:03:08Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T19:03:08Z - werkzeug - INFO -  * Debugger PIN: 546-476-464
+2024-03-13T19:03:15Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T19:03:15Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T19:03:16Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T19:03:16Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T19:03:47Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T19:03:47Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T19:03:48Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T19:03:48Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T19:03:52Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T19:03:52Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T19:03:53Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T19:03:53Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T19:03:59Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T19:03:59Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T19:04:00Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T19:04:00Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T19:04:05Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T19:04:05Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T19:04:05Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T19:04:05Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T19:04:15Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T19:04:15Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T19:04:16Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T19:04:16Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T19:04:22Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T19:04:22Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T19:04:22Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T19:04:22Z - werkzeug - INFO -  * Debugger PIN: 546-476-464
+2024-03-13T19:04:28Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T19:04:28Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T19:04:28Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T19:04:28Z - werkzeug - INFO -  * Debugger PIN: 546-476-464
+2024-03-13T19:04:33Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T19:04:34Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T19:04:34Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T19:04:34Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T19:04:36Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T19:04:36Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T19:04:37Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T19:04:37Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T19:04:51Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'm_name': 'n', 'l_name': 'terento', 'primary_contact_number': '8920267444', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T19:04:51Z - log_config - INFO - User has been saved. user_id: None
+2024-03-13T19:04:51Z - werkzeug - INFO - 127.0.0.1 - - [14/Mar/2024 00:34:51] "POST /register HTTP/1.1" 200 -
+2024-03-13T19:06:19Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T19:06:19Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T19:06:20Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T19:06:20Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T19:06:31Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T19:06:31Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T19:06:32Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T19:06:32Z - werkzeug - INFO -  * Debugger PIN: 546-476-464
+2024-03-13T19:06:34Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T19:06:34Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T19:06:35Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T19:06:35Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T19:06:37Z - werkzeug - INFO -  * Detected change in 'C:\\Users\\djang\\code\\projects\\food-truck-management-system\\backend\\user_registration\\register.py', reloading
+2024-03-13T19:06:37Z - werkzeug - INFO -  * Restarting with stat
+2024-03-13T19:06:37Z - werkzeug - WARNING -  * Debugger is active!
+2024-03-13T19:06:37Z - werkzeug - INFO -  * Debugger PIN: 896-667-783
+2024-03-13T19:07:41Z - log_config - DEBUG - Raw Request: {'f_name': 'quint', 'l_name': 'terento', 'primary_contact_number': '8920267444', 'secondary_contact_number': '7042187129', 'primary_email_address': 't@rr.com', 'secondary_email_address': 's@rr.com', 'password': 'Demopass23@1', 'address': 'b-94, mm marg, random place, new city, bad state', 'pincode': '110032'}
+2024-03-13T19:07:41Z - log_config - INFO - User has been saved. user_id: None
+2024-03-13T19:07:41Z - werkzeug - INFO - 127.0.0.1 - - [14/Mar/2024 00:37:41] "POST /register HTTP/1.1" 200 -
